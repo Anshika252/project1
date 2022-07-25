@@ -14,5 +14,10 @@ git status
 ## checking commit history
 git log
 
+## adding remote
+git remote add remote_name remote_url
+default is origin
+git remote -v 
+
 ## second level heading
 random text
